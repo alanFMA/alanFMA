@@ -23,6 +23,6 @@ Dev Jr de Front-End e "Lifelong Learner". Tenho 7 anos de experiência como assi
 
 <div>
 <a href="https://github.com/alanFMA">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanFMA&layout=compact&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanFMA&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanFMA&layout=compact&theme=react"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanFMA&show_icons=true&theme=react"/>
 </div>
