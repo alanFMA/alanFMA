@@ -21,6 +21,6 @@ Dev Jr de Front-End e "Lifelong Learner". Tenho 7 anos de experiência como assi
 
 <div>
 <a href="https://github.com/alanFMA">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?alanFMA&layout=compact&langs_count=7&theme=dracula"/>
+[![alanFMA's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanFMA)](https://github.com/alanFMA/github-readme-stats)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?alanFMA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
