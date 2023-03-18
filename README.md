@@ -19,7 +19,10 @@ Dev Jr de Front-End e "Lifelong Learner". Tenho 7 anos de experiência como assi
   <a href = "mailto:alanmonteiro105@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+  ##
+
 <div>
 <a href="https://github.com/alanFMA">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanFMA"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanFMA&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanFMA&show_icons=true&theme=radical"/>
 </div>
