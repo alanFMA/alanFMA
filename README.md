@@ -1,6 +1,6 @@
 Hi there! I'm Alan!
 
-Dev Jr de Front-End e "Lifelong Learner". Tenho 7 anos de experiência como assistente administrativo, entre setor público e privado. Formado em Tecnologia. Fui aprovado no processo seletivo "Up!Tech" da Riachuelo e avaliado por alto desempenho. Tenho uma excelente comunicação, amo trabalhar em equipe e estou sempre disposto a aperfeiçoar minhas habilidades.
+Dev de Front-End e "Lifelong Learner". Tenho 7 anos de experiência como assistente administrativo, entre setor público e privado. Formado em Tecnologia. Fui aprovado no processo seletivo "Up!Tech" da Riachuelo e avaliado por alto desempenho. Tenho uma excelente comunicação, amo trabalhar em equipe e estou sempre disposto a aperfeiçoar minhas habilidades.
 
  <div>
 <a href="https://github.com/alanFMA">
