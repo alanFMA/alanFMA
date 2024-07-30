@@ -15,8 +15,8 @@ Dev de Front-End e "Lifelong Learner". Tenho 7 anos de experiência como assiste
   <img align="center" title="NextJS" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
   <img align="center" title="Redux" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg">
   <img align="center" title="Tailwindcss" alt="Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" title="MaterialUI" alt="MaterialUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg">
   <img align="center" title="Shadcn" alt="Shadcn" height="30" width="40" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4">
+  <img align="center" title="MaterialUI" alt="MaterialUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg">
   <img align="center" title="Postgresql" alt="Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img align="center" title="Prisma" alt="Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
   <img align="center" title="Firebase" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
