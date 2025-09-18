@@ -2,10 +2,11 @@ Hi there! I'm Alan!
 
 Dev de Front-End com 3+ anos de experiência e "Lifelong Learner". Tenho 7 anos de experiência como assistente administrativo, entre setor público e privado. Formado em Tecnologia. Fui aprovado no processo seletivo "Up!Tech" da Riachuelo e avaliado por alto desempenho. Tenho uma excelente comunicação, amo trabalhar em equipe e estou sempre disposto a aperfeiçoar minhas habilidades.
 
- <div>
-<a href="https://github.com/alanFMA">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanFMA&layout=compact&theme=react"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanFMA&show_icons=true&theme=react"/>
+<div>
+  <a href="https://github.com/alanFMA">
+    <img height="180em" src="https://github-readme-stats-wine-seven-42.vercel.app/api/top-langs/?username=alanFMA&layout=compact&theme=react"/>
+    <img height="180em" src="https://github-readme-stats-wine-seven-42.vercel.app/api?username=alanFMA&show_icons=true&theme=react"/>
+  </a>
 </div>
   
 <div style="display: inline_block"><br>
